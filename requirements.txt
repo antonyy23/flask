@@ -145,7 +145,7 @@ python-dotenv
 python-multipart
 pytz
 
-pywinpty
+
 PyYAML
 pyzmq
 qdldl
