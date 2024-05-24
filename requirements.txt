@@ -144,7 +144,7 @@ python-dateutil
 python-dotenv
 python-multipart
 pytz
-pywin32
+
 pywinpty
 PyYAML
 pyzmq
