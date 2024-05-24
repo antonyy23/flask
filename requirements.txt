@@ -144,7 +144,6 @@ python-dateutil
 python-dotenv
 python-multipart
 pytz
-pywinpty
 PyYAML
 pyzmq
 qdldl
@@ -214,4 +213,3 @@ widgetsnbextension
 wrapt
 WTForms
 zipp
-pywin32==303
