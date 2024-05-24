@@ -1,3 +1,4 @@
+platform_system=="Windows"
 absl-py
 altair
 annotated-types
@@ -144,7 +145,7 @@ python-dateutil
 python-dotenv
 python-multipart
 pytz
-pywin32
+pywin32==303
 pywinpty
 PyYAML
 pyzmq
